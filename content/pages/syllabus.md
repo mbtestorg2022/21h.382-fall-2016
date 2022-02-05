@@ -39,12 +39,57 @@ Class Format, Evaluation, and Attendance
 
 This seminar meets once a week for three hours for close readings of texts that must be studied carefully and critically in advance in order for the class to work. Because we meet only once a week and cover a good deal of ground in each seminar meeting, students who miss more than two sessions of the seminar will not be able to receive a passing grade for the course barring an unusual medical or personal emergency.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 40% |
-| Paper 1 (5 pages) | 15% |
-| Paper 2 (6–7 pages) | 20% |
-| Paper 3 (9–10 pages) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 (5 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 (6–7 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 (9–10 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detail on the activities mentioned in the above table, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
