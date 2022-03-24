@@ -52,7 +52,7 @@ Kocka, Jürgen. "What Does Capitalism Mean?" Chapter 1 in _Capitalism: A Short H
 
 McCloskey, Deirdre N. "Exordium: The Three Volumes Show That We Are Rich Because of an Ethical and Rhetorical Change." In _Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World_. University of Chicago Press, 2016. ISBN: 9780226333991. \[Preview with [Google Books](http://books.google.com/books?id=ftLECwAAQBAJ&pg=PAfrontcover)\]
 
-Minsky, Hyman P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Financial Instability Hypothesis." (PDF)](http://www.levyinstitute.org/pubs/wp74.pdf) Working Paper No. 74, the Jerome Levy Economics Institute of Bard College, May 1992.
+Minsky, Hyman P. ["The Financial Instability Hypothesis." (PDF)](http://www.levyinstitute.org/pubs/wp74.pdf) Working Paper No. 74, the Jerome Levy Economics Institute of Bard College, May 1992.
 
 Sewell, William H. "[The Capitalist Epoch](http://dx.doi.org/10.1017/ssh.2015.3)." _Social Science History_ 38, no. 1–2 (2014): 1–11.
 
